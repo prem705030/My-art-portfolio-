@@ -1,3 +1,31 @@
 # My-art-portfolio-
 Showcasing my digital and handmade art collection
 [Follow me on Instagram](https://www.instagram.com/prem_the_world_1/profilecard/?igsh=MXQ2czc5aDc0eGhodw==)
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Art Portfolio</title>
+</head>
+<body>
+  <h1>Welcome to My Art Portfolio</h1>
+  <p>Explore my digital and handmade artworks.</p>
+
+  <!-- Instagram Button -->
+  <p>
+    <a href="https://www.instagram.com/prem_the_world_1/profilecard/?igsh=MXQ2czc5aDc0eGhodw==" 
+       target="_blank" 
+       style="padding: 10px 15px; background-color: #E1306C; color: white; text-decoration: none; border-radius: 5px;">
+      Follow me on Instagram
+    </a>
+  </p>
+
+  <!-- YouTube Button -->
+  <p>
+    <a href="https://www.youtube.com/@Bachelors7321" 
+       target="_blank" 
+       style="padding: 10px 15px; background-color: #FF0000; color: white; text-decoration: none; border-radius: 5px;">
+      Subscribe on YouTube
+    </a>
+  </p>
+</body>
+</html>
